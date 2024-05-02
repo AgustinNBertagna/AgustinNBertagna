@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in ABGSublime an Ecommerce API that aims to manage users, products, purchases and suppliers for a family business. Constantly in development.
 
-- 🌱 I’m currently Working on Web Development(NextJS, NestJS, PostgreSQL, MongoDB).
+- 🌱 I’m specialize on Back End Development(NextJS, NestJS, PostgreSQL, MongoDB).
 
 - 🤝 I’m available for freelancing.
 
