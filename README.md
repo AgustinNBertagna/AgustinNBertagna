@@ -6,15 +6,15 @@
 </a>
 
 - 🔭 I’m currently working in ABGSublime an Ecommerce API that aims to manage users, products, purchases and suppliers for a family business. Constantly in development.
-<h4>Among the various aspects of my role, I excel in:</h4>
-<ul>
-  <li>Design and layout the API.</li> 
-  <li>Design and Model Database Entities and Relationships.</li> 
-  <li>Documenting the API.</li> 
-  <li>Testing the API (Unit Testing and End-To-End).</li> 
-  <li>Containerize with Docker.</li> 
-  <li>Deploy to production.</li> 
-</ul>
+  <h4>Among the various aspects of my role, I excel in:</h4>
+  <ul>
+    <li>Design and layout the API.</li> 
+    <li>Design and Model Database Entities and Relationships.</li> 
+    <li>Documenting the API.</li> 
+    <li>Testing the API (Unit Testing and End-To-End).</li> 
+    <li>Containerize with Docker.</li> 
+    <li>Deploy to production.</li> 
+  </ul>
 
 - 🌱 I’m currently Working on Web Development(NextJS, NestJS, PostgreSQL, MongoDB).
 
